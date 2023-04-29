@@ -1,4 +1,4 @@
-#Make in India RISC-V Initiative with collaboration of CDAC and Vega Processors#
+*Make in India RISC-V Initiative with collaboration of CDAC and Vega Processors*
 
 Make in India RISC-V Initiative with collaboration of CDAC and Vega Processors
 
